@@ -1,0 +1,3 @@
+var borq='';
+borq += '<' + 'div id="b_q"><' + 'a href="http://bash.im/quote/1900">#1900<' + '/a> <' + 'span id="b_q_h">[ 1565 ]<' + '/span><' + 'div id="b_q_t" style="padding: 1em 0;">&lt;Darth_Blade&gt; Рэйз, передай этому игнорщику, что он больной %)<' + 'br />&lt;Aku&gt; &lt;Darth_Blade&gt; ?yec, ia?aaae yoiio eaii?ueeo, ?oi ii aieuiie %)<' + 'br />&lt;Darth_Blade&gt; Спасибо Ж)<' + 'br />&lt;Aku&gt; Вот я кстати с ним совершенно согласен<' + 'br />&lt;Darth_Blade&gt; Круто %)<' + 'br />&lt;Darth_Blade&gt; А с чем ты согласен?<' + 'br />&lt;Aku&gt; Ну конкретно с yoiio eaii?ueeo<' + '/div><' + 'small><' + 'a href="http://bash.im/" target="_blank" title="bash.im откроется в новом окне">Больше на bash.im!<' + '/a><' + '/small><' + '/div>';
+document.write(borq);
